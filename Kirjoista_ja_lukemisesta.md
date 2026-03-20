@@ -6,6 +6,7 @@ Nykyaikana elämme paradoksaalisessa tilassa: tietoa on saatavilla enemmän kuin
 Lukemisen syvin voima ei piile siinä, mitä muistamme, vaan siinä, millaisiksi muutumme prosessin aikana. Tämän dokumentin tavoitteena on herättää lukija pois pinnallisesta suorittamisesta ja ohjata hänet kohti sivistystä, jossa kirja toimii peilinä ja alasimena oman persoonan jalostamiselle. Lukeminen on matka pois ajattelemattomuudesta kohti olemista, joka kantaa vastuun omasta kasvustaan.
 Tämä siirtymä vaatii kuitenkin tietoisen asennoitumisen muutoksen, joka alkaa päämäärätietoisuudesta.
 
+
 -------------------------------------------------------------------------------- 
 
 ## 2. Mitä on 'päämäärätietoinen lukeminen'? ##

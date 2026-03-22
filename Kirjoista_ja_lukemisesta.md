@@ -59,5 +59,5 @@ Kun lukeminen jalostaa ihmisyyttä, se synnyttää periksiantamattomuutta ja vii
 Filosofinen kasvu vaatii tinkimätöntä rehellisyyttä itselle. Pysähdy arvioimaan omaa suhdettasi lukemiseen ja tietoon:
 1.	Missä konkreettisessa tilanteessa lukemasi kirja on antanut sinulle moraalista lujuutta toimia toisin kuin ajattelematon massa toimisi?
 2.	Oletko rehellisesti enemmän kiinnostunut keräämään ulkoisia osoituksia osaamisestasi kuin kehittämään sellaista nöyryyttä ja malttia, joka kestää kriisit?
-3.	Jos unohtaisit kaiken lukemasi faktatiedon huomenna, mitä jälkiä lukuharrastuksesi on jättänyt tapaasi kohdata muita ihmisiä ja kantaa vastuuta maailmasta?
+3.	Jos unohtaisit kaiken lukemasi faktatiedon huomenna, mitä jälkiä lukuharrastuksesi on jättänyt tapaasi kohdata muita ihmisiä ja kantaa vastuuta maailmasta???
 

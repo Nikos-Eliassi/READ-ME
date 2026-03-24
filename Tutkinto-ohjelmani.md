@@ -69,4 +69,4 @@ Menestys vaatii uteliasta asennetta ja halua kerryttää hands-on-kokemusta heti
 
 
 ## Lisätietoa
-[Opinto-opas](https://centria.opinto-opas.fi/curricula/degreeprogrammes/groups/plan?groupId=51387&planId=53812)
+# [Opinto-opas](https://centria.opinto-opas.fi/curricula/degreeprogrammes/groups/plan?groupId=51387&planId=53812)

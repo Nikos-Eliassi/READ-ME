@@ -65,7 +65,7 @@ Liiketalouden tietojenkäsittelyn tutkinto on dynaaminen ponnahduslauta elinikä
 * Korkea markkina-arvo: Jatkuva kysyntä osaajista, jotka ymmärtävät teknologian taloudellisen vaikuttavuuden.
 * Strateginen vaikuttavuus: Mahdollisuus rakentaa kestäviä, eettisiä ja globaalisti skaalautuvia ratkaisuja.
 
-Menestys vaatii uteliasta asennetta ja halua kerryttää hands-on-kokemusta heti ensimmäisestä päivästä alkaen. Ota paikkasi digitaalisen tulevaisuuden strategisena sillanrakentajana – BIT-tutkinto tarjoaa työkalut, mutta sinun visionsa määrittää lopputuloksen.
+Menestys vaatii uteliasta asennetta ja halua kerryttää hands-on-kokemusta heti ensimmäisestä päivästä alkaen. Ota paikkasi digitaalisen tulevaisuuden strategisena sillanrakentajana – BIT-tutkinto tarjoaa työkalut, mutta sinun visionsa määrittää lopputuloksen. 
 
 
 # https://centria.opinto-opas.fi/curricula/degreeprogrammes/groups/plan?groupId=51387&planId=53812

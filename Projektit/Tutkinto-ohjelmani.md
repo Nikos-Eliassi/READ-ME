@@ -67,5 +67,7 @@ Liiketalouden tietojenkäsittelyn tutkinto on dynaaminen ponnahduslauta elinikä
 
 Menestys vaatii uteliasta asennetta ja halua kerryttää hands-on-kokemusta heti ensimmäisestä päivästä alkaen. Ota paikkasi digitaalisen tulevaisuuden strategisena sillanrakentajana – BIT-tutkinto tarjoaa työkalut, mutta sinun visionsa määrittää lopputuloksen. 
 
+KIITOS!!
+
 
 # https://centria.opinto-opas.fi/curricula/degreeprogrammes/groups/plan?groupId=51387&planId=53812

@@ -13,8 +13,8 @@ Tämä siirtymä vaatii kuitenkin tietoisen asennoitumisen muutoksen, joka alkaa
 
 Päämäärätietoinen lukeminen on vastakohta passiiviselle kuluttamiselle. Se on eksistentiaalinen ja moraalinen prosessi, jossa lukija kieltäytyy olemasta pelkkä tiedon säiliö. Sen sijaan hän kysyy, miten teksti haastaa hänen nykyisen tapansa olla maailmassa.
 Käännä katseesi pois suorituksesta ja pohdi lukemistasi seuraavien kysymysten kautta:
-Päämäärätietoisen lukijan muistilista:
 
+## Päämäärätietoisen lukijan muistilista:
 •	Miksi luen? – Valitse, oletko vain tiedon keräilijä vai haluatko sivistää itseäsi. Tämä kysymys siirtää huomion ulkoisesta statuksesta sisäiseen tarpeeseen ymmärtää olemassaoloa.
 
 •	Mitä tavoittelen? – Etsi tekstistä uusia tapoja tulkita todellisuutta ja hylkää pelkkä faktojen toistaminen. Tavoitteena on löytää työkaluja, joilla purkaa omia hätiköityjä johtopäätöksiä.
